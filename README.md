@@ -1,5 +1,5 @@
 # checkbox-group
-✅ Checkbox group setup with some "master" one that unchecks all other, or gets unchecked if one of the others is checked. Kinda like an "all" checkbox.
+✅ Checkbox group setup with some "master" one that unchecks all others, or gets unchecked if one of the others is checked. Kinda like an "all" checkbox.
 
 # TODO
 
