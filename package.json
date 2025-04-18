@@ -1,0 +1,24 @@
+{
+  "name": "checkbox-group",
+  "version": "1.0.0",
+  "description": "✅ Checkbox group setup with some \"master\" one that unchecks all others, or gets unchecked if one of the others is checked. Kinda like an \"all\" checkbox.",
+  "keywords": [
+    "checkboxes",
+    "javascript"
+  ],
+  "homepage": "https://github.com/EmmanuelBeziat/checkbox-group#readme",
+  "bugs": {
+    "url": "https://github.com/EmmanuelBeziat/checkbox-group/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelBeziat/checkbox-group.git"
+  },
+  "license": "GPLv3",
+  "type": "module",
+  "author": {
+    "name": "Emmanuel Béziat",
+    "email": "contact@emmanuelbeziat.com"
+  },
+  "main": "checkbox-master.js"
+}
