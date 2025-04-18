@@ -7,6 +7,15 @@ A lot to get this widely useable… Options, and stuff.
 
 For now, it just works like this:
 
+## Install
+
+```
+npm i @emmanuelbeziat/checkbox-group
+````
+
+## Usage
+
+
 ```html
 <div data-checkbox-group>
   <label><input type="checkbox" data-checkbox-group-master> All</label>
