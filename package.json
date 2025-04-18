@@ -1,6 +1,6 @@
 {
   "name": "checkbox-group",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "✅ Checkbox group setup with some \"master\" one that unchecks all others, or gets unchecked if one of the others is checked. Kinda like an \"all\" checkbox.",
   "keywords": [
     "checkboxes",
