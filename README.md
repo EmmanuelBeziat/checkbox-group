@@ -9,7 +9,7 @@ For now, it just works like this:
 
 ```html
 <div data-checkbox-group>
-  <label><input type="checkbox" data-checkbox-master> All</label>
+  <label><input type="checkbox" data-checkbox-group-master> All</label>
   <label><input type="checkbox"> Value 1</label>
   <label><input type="checkbox"> Value 2</label>
 </div>
