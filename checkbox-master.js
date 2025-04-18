@@ -1,4 +1,4 @@
-class CheckboxGroup {
+export default class CheckboxGroup {
 	constructor(selector = '[data-checkbox-group]') {
 		const listGroups = document.querySelectorAll(selector)
 		if (!listGroups.length) return
